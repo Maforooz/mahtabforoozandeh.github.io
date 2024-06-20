@@ -1,0 +1,1094 @@
+ body {
+    background-color: rgba(31, 31, 31, 0.87);
+    width: 100vw;
+ }
+
+ .logo {
+
+position: absolute;
+width: 150px;
+height: Auto;
+left: 70px;
+top: 40px;
+
+ }
+
+ ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+ }
+
+ li  {
+    color: #FFFFFF;
+    display: inline-block;
+    font-family: "Kantumruy Pro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 14px;
+    margin-right: 70px;
+    position: relative;
+    top: 60px;
+    margin-left: auto;
+ }
+ nav ul li a {
+    display: contents;
+    color: white;
+    text-decoration: none;
+ }
+
+ nav ul li a:hover {
+color: #8BC3E9;
+
+position: relative;
+width: 25px;
+height: 0px;
+left: 831px;
+top: 100px;
+border: 1px solid #8BC3E9;
+transform: rotate(-90deg);
+
+ }
+.home {
+border-bottom: 1px solid #8BC3E9;
+position: absolute;
+width: 44px;
+left: 631px;
+top: 77px;
+position: absolute;
+width: 40px;
+height: 25px;
+left: 633px;
+top: 72px;
+
+}
+
+.about {
+border-bottom: 1px solid #8BC3E9;
+position: absolute;
+width: 50px;
+left: 729px;
+top: 77px; 
+position: absolute;
+width: 40px;
+height: 25px;
+left: 733px;
+top: 72px;
+
+}
+
+.projects {
+ 
+border-bottom: 1px solid #8BC3E9;
+position: absolute;
+width: 56px;
+left: 832px;
+top: 77px;
+position: absolute;
+width: 53px;
+height: 25px;
+left: 833px;
+top: 72px;
+
+}
+
+.case-studies{
+
+border-bottom: 1px solid #8BC3E9;
+position: absolute;
+width: 90px;
+height: 0px;
+left: 946px;
+top: 77px;
+     
+position: absolute;
+width: 90px;
+height: 25px;
+left: 946px;
+top: 72px;
+
+}
+
+.photo {
+
+position: absolute;
+width: 80px;
+height: auto;
+left: 946px;
+top: 125px;
+
+}
+
+h1 {
+
+position: absolute;
+width: 342px;
+height: 58px;
+left: 155px;
+top: 290px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+}
+
+h2 {
+
+position: absolute;
+width: 406px;
+height: 47px;
+left: 155px;
+top: 359px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 36px;
+
+color: #FFFFFF;
+
+}
+
+.border {
+position: absolute;
+width: 97px;
+height: 0px;
+left: 97px;
+top: 358px;
+
+border: 2px solid #8BC3E9;
+transform: rotate(90deg);
+
+}
+
+button {
+
+box-sizing: border-box;
+
+position: absolute;
+width: 125px;
+height: 35px;
+left: 155px;
+top: 445px;
+background-color: transparent;
+border: 2px solid #8BC3E9;
+border-radius: 28px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 23px;
+
+color: #FFFFFF;
+
+}
+
+button a {
+    display: contents;
+    color: white;
+    text-decoration: none;
+}
+
+button a:hover {
+    color:#8BC3E9
+}
+
+.scroll {
+
+position: absolute;
+width: 108px;
+height: 0px;
+left: 0px;
+top: 650px;
+
+border: 2px solid #8BC3E9;
+transform: rotate(180deg);
+
+}
+
+h6 {
+
+position: absolute;
+width: 70px;
+height: 22px;
+left: 115px;
+top: 620px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 22px;
+
+color: #FFFFFF;
+
+
+}
+
+section{
+
+
+position: absolute;
+width: 100%;
+height: 1234px;
+left: 0px;
+top: 773px;
+
+background: rgba(255, 255, 255, 0.04);
+
+}
+
+#about-me {
+
+position: absolute;
+width: 116px;
+height: 43px;
+left: 121px;
+top: 40px;
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 43px;
+
+color: #8BC3E9;
+
+}
+
+#aboutme-description{
+
+position: absolute;
+width: 488px;
+height: 449px;
+left: 121px;
+top: 90px;
+
+font-family:  "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 29px;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+}
+
+#education {
+
+position: absolute;
+width: 120px;
+height: 43px;
+left: 831px;
+top: 40px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 43px;
+
+color: #8BC3E9;
+
+
+}
+ 
+.circle {
+
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 836px;
+top: 896px;
+border-radius: 50%;
+background: #8BC3E9;
+
+}
+#shade1, circle{
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 831px;
+top: 891px;
+
+background: rgba(139, 195, 233, 0.21);
+
+}
+
+#second, circle {
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 836px;
+top: 991px;
+border-radius: 50%;
+background: #8BC3E9;
+
+}
+
+#shade2, circle {
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 831px;
+top: 986px;
+
+background: rgba(139, 195, 233, 0.21);
+
+}
+
+.border2 {
+
+position: absolute;
+width: 123px;
+height: 0px;
+left: 777.5px;
+top: 940px;
+
+border: 1px solid rgba(139, 195, 233, 0.21);
+
+transform: rotate(-90deg);
+
+}
+
+#education-degree {
+
+position: absolute;
+width: 456px;
+height: 165px;
+left: 863px;
+top: 860px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 32px;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+}
+
+#education-school {
+    
+position: absolute;
+width: 456px;
+height: 165px;
+left: 864px;
+top: 893px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 29px;
+letter-spacing: 0.01em;
+color: rgba(255, 255, 255, 0.71);
+
+}
+
+#school2 {
+position: absolute;
+width: 456px;
+height: 165px;
+left: 864px;
+top: 990px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 29px;
+letter-spacing: 0.01em;
+
+color: rgba(255, 255, 255, 0.71);
+
+}
+
+.experience {
+
+position: absolute;
+width: 132px;
+height: 43px;
+left: 831px;
+top: 1060px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 43px;
+color: #8BC3E9;
+
+}
+
+#third {
+position: absolute;
+width: 8px;
+height: 8px;
+left: 836px;
+top: 1145px;
+border-radius: 50%;
+background: #8BC3E9;
+
+}
+
+#shade3, circle {
+position: absolute;
+width: 18px;
+height: 18px;
+left: 831px;
+top: 1140px;
+background: rgba(139, 195, 233, 0.21);
+
+}
+
+#forth {
+position: absolute;
+width: 8px;
+height: 8px;
+left: 836px;
+top: 1230px;
+border-radius: 50%;
+background: #8BC3E9;
+}
+
+#shade4, circle {
+position: absolute;
+width: 18px;
+height: 18px;
+left: 831px;
+top: 1225px;
+background: rgba(139, 195, 233, 0.21);
+
+}
+
+#br2 {
+
+position: absolute;
+width: 110px;
+height: 0px;
+left: 784px;
+top: 1184px;
+border: 1px solid rgba(139, 195, 233, 0.21);
+transform: rotate(-90deg);
+
+}
+#work {
+
+position: absolute;
+width: 449px;
+height: 110px;
+left: 865px;
+top: 1108px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 33px;
+
+color: #FFFFFF;
+
+}
+
+#work2 {
+    position: absolute;
+    width: 449px;
+    height: 110px;
+    left: 865px;
+    top: 1193px;
+    
+    font-family: "Kantumruy Pro", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    
+    color: #FFFFFF;
+
+}
+
+#date {
+
+position: absolute;
+width: 449px;
+height: 153px;
+left: 865px;
+top: 1140px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 33px;
+
+color: rgba(170, 170, 170, 1);
+
+}
+
+#where {
+position: absolute;
+width: 449px;
+height: 153px;
+left: 865px;
+top: 1225px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 33px;
+
+color: rgba(170, 170, 170, 1);
+
+}
+
+.skills {
+
+position: absolute;
+width: 62px;
+height: 43px;
+left: 121px;
+top: 1330px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 43px;
+
+color: #8BC3E9;
+
+
+}
+
+.competency {
+
+position: absolute;
+width: 125px;
+height: 36px;
+left: 121px;
+top: 1390px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 36px;
+
+color: #CAE9FF;
+
+
+}
+
+.software {
+
+position: absolute;
+width: 90px;
+height: 36px;
+left: 420px;
+top: 1394px;
+
+font-family:"Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 36px;
+
+color: #CAE9FF;
+
+}
+
+.programming {
+
+position: absolute;
+width: 139px;
+height: 36px;
+left: 121px;
+top: 1700px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 36px;
+
+color: #CAE9FF;
+
+
+}
+
+.items {
+
+position: absolute;
+width: 244px;
+height: 234px;
+left: 121px;
+top: 1435px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 33px;
+
+color: #FFFFFF;
+
+
+}
+
+.software-items {
+
+position: absolute;
+width: 186px;
+height: 234px;
+left: 420px;
+top: 1439px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 33px;
+
+color: #FFFFFF;
+
+
+}
+
+.programming-items {
+
+position: absolute;
+width: 305px;
+height: 116px;
+left: 121px;
+top: 1745px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 33px;
+
+color: #FFFFFF;
+}
+.certificates {
+
+position: absolute;
+width: 139px;
+height: 43px;
+left: 831px;
+top: 1330px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 43px;
+
+color: #8BC3E9;
+
+
+}
+.courses {
+
+position: absolute;
+width: 488px;
+height: 308px;
+left: 834px;
+top: 1394px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 33px;
+
+color: #FFFFFF;
+
+
+}
+.institution {
+
+position: absolute;
+width: 488px;
+height: 308px;
+left: 834px;
+top: 1418px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 31px;
+
+color: rgba(255, 255, 255, 0.71);
+
+
+}
+.last-two {
+position: absolute;
+width: 488px;
+height: 308px;
+left: 834px;
+top: 1614px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 31px;
+
+color: rgba(255, 255, 255, 0.71);
+
+}
+
+#resume {
+
+position: absolute;
+width: 61px;
+height: 29px;
+left: 836px;
+top: 1832px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 29px;
+
+color: #8BC3E9;
+
+}
+.previous {
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 1237px;
+top: 1925px;
+border-radius: 50%;
+background: rgba(49, 51, 53, 0.21);
+
+}
+.previous svg {
+    vertical-align: middle;
+}
+
+.next {
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 1285.7px;
+top: 1925px;
+border-radius: 50%;
+background: rgba(139, 195, 233, 0.21);
+
+
+}
+
+.next svg {
+    vertical-align: middle;
+}
+
+footer {
+
+position: absolute;
+width: 100%;
+height: 85px;
+left: 0px;
+top: 1990px;
+
+background: rgba(245, 245, 245, 0.8);
+
+}
+
+#contact-info {
+ 
+position: absolute;
+width: 71px;
+height: 30px;
+left: 121px;
+top: 8px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 33px;
+
+color: #000000;
+
+}
+.email {
+
+position: absolute;
+width: 325px;
+height: 30px;
+left: 831px;
+top: 10px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 29px;
+
+color: #000000;
+
+
+}
+
+.linkedin {
+
+position: absolute;
+width: 37px;
+height: 37px;
+left: 1185px;
+top: 22px;
+
+}
+.github {
+
+position: absolute;
+width: 37px;
+height: 37px;
+left: 1235px;
+top: 22px;
+
+}
+.telegram {
+
+position: absolute;
+width: 37px;
+height: 37px;
+left: 1288px;
+top: 22px;
+
+
+}
+.poster {
+
+
+position: absolute;
+width: 100%;
+height: auto;
+left: 0px;
+top: 204px;
+
+}
+
+.problem {
+
+position: absolute;
+width: 101px;
+height: 43px;
+left: 121px;
+top: 750px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 43px;
+
+color: #8BC3E9;
+
+
+}
+.problem-description {
+    
+
+position: absolute;
+width: 488px;
+height: 120px;
+left: 123px;
+top: 800px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 33px;
+
+color: #FFFFFF;
+
+
+}
+.solution {
+
+position: absolute;
+width: 100px;
+height: 43px;
+left: 121px;
+top: 956px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 43px;
+
+color: #8BC3E9;
+
+
+}
+.solution-descripition {
+   
+position: absolute;
+width: 488px;
+height: 120px;
+left: 121px;
+top: 1016px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 33px;
+
+color: #FFFFFF;
+
+
+
+}
+#bullet {
+
+position: absolute;
+width: 6px;
+height: 6px;
+left: 119px;
+top: 1046px;
+
+background: #8BC3E9;
+}
+#bullet2 {
+
+position: absolute;
+width: 6px;
+height: 6px;
+left: 119px;
+top: 1114px;
+
+background: #8BC3E9;
+
+}
+
+.prototype {
+
+position: absolute;
+width: 200px;
+height: 43px;
+left: 119px;
+top: 1133px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 43px;
+
+color: #8BC3E9;
+
+}
+
+.prototype a {
+
+    color:#8BC3E9;
+    text-decoration: none;
+}
+
+video {
+
+position: absolute;
+width: 252px;
+height: 547px;
+left: 921px;
+top: 730px;
+
+
+}
+
+.previous2 {
+
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 1237px;
+    top: 1350px;
+    border-radius: 50%;
+    background: rgba(139, 195, 233, 0.21); 
+    
+    }
+    .previous2 svg {
+        vertical-align: middle;
+    }
+    
+    .next2 {
+    
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 1285.7px;
+    top: 1350px;
+    border-radius: 50%;
+    background: rgba(49, 51, 53, 0.21);
+    
+    
+    }
+    
+    .next2 svg {
+        vertical-align: middle;
+    }
+
+    #contact {
+        box-sizing: border-box;
+
+        position: absolute;
+        width: 125px;
+        height: 35px;
+        left: 119px;
+        top: 1350px;
+        background-color: transparent;
+        border: 2px solid #8BC3E9;
+        border-radius: 28px;
+        
+        font-family: "Kantumruy Pro", sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 23px;
+        
+        color: #FFFFFF;
+        
+        }
+        
+        button a {
+            display: contents;
+            color: white;
+            text-decoration: none;
+        }
+        
+        button a:hover {
+            color:#8BC3E9
+        }
+        .spacer {
+            height: 50px;
+        }
