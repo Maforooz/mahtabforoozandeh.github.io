@@ -1089,6 +1089,18 @@ top: 730px;
         button a:hover {
             color:#8BC3E9
         }
-        .spacer {
-            height: 50px;
+       .credit { 
+position: absolute;
+width: 203px;
+height: 25px;
+left: 618px;
+top: 1450px;
+margin-bottom: 30px;
+
+font-family: "Kantumruy Pro", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 25px;
+
         }
